@@ -1,0 +1,48 @@
+body {
+    background-color: #B6CEC7;
+}
+
+  a {
+
+
+    color:#f04083;
+ }
+
+.hover{
+
+    background-color: blanchedalmond;
+}
+
+.mytitle {
+
+color: #f01c63    ;
+font-style:italic;
+
+}
+
+
+
+.form{
+
+    
+    width: 200;
+    border-radius: 50%;
+    border:12px solid #d49595;
+
+}
+
+.upper{
+
+    text-transform: uppercase;
+}
+
+.lower {
+
+    text-transform: lowercase;
+}
+
+
+.title {
+    letter-spacing: 4px;
+  ;
+}
